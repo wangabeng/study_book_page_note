@@ -103,7 +103,7 @@ http://electsys.sjtu.edu.cn/edu/pyjh/pyjhQueryNew.aspx
 
 
 ××××××××××××××××
-逻辑电路和数字电路
+逻辑电路和数字电路 《电子电气工程师必知必会(第3版)》
 单片机
 汇编语言
 计算机组成原理
